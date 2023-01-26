@@ -1,0 +1,11 @@
+.basket-cards {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 10px 30px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.jami-text {
+    text-align: center;
+}

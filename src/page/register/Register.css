@@ -1,0 +1,22 @@
+.register-page form {
+    width: 30%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    background-color: red;
+    justify-content: center;
+  }
+  .register-page input {
+    padding: 5px 20px;
+    margin-top: 20px;
+  }
+  .register-page button {
+    background: cornflowerblue;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    margin-top: 30px;
+  }

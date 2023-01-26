@@ -1,0 +1,26 @@
+.basket-products {
+  padding: 10px;
+  background-color: gray;
+  border-radius: 5px;
+  width: 400px;
+}
+.basket-products img {
+  width: 100%;
+  height: 400px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.basket-products button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: cornflowerblue;
+  color: white;
+  transition: 0.3s ease-in-out;
+  margin-top: 10px;
+}
+.basket-products button:hover {
+  background-color: white;
+  color: cornflowerblue;
+  cursor: pointer;
+}

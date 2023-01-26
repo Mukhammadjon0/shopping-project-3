@@ -1,0 +1,15 @@
+.home-page{
+    padding: 20px;
+    background-color: wheat;
+}
+.home-page h1{
+    text-align: center;
+}
+
+.products {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px 10px;
+  text-align: left;
+}
